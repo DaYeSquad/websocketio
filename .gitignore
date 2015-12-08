@@ -1,0 +1,4 @@
+#android build directory
+obj/
+libs/
+jni/
